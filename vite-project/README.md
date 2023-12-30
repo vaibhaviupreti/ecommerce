@@ -128,7 +128,11 @@ npm i react-router-dom
         </Routes>
     </Router>
 
-Use of Context api:
+<b>Use of Context api:</b>
+context
+  data
+      myContext.jsx (boiler_code:rafc) : In this file context is imported from react then stored in a variable and exported for further use.
+      myState.jsx
 
 
 
